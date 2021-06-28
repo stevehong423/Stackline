@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gh-pages/static/css/main.abe69bca.chunk.css",
+    "main.js": "/gh-pages/static/js/main.0640205b.chunk.js",
+    "main.js.map": "/gh-pages/static/js/main.0640205b.chunk.js.map",
+    "runtime-main.js": "/gh-pages/static/js/runtime-main.6e9ebd8e.js",
+    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.6e9ebd8e.js.map",
+    "static/js/2.74935d2e.chunk.js": "/gh-pages/static/js/2.74935d2e.chunk.js",
+    "static/js/2.74935d2e.chunk.js.map": "/gh-pages/static/js/2.74935d2e.chunk.js.map",
+    "index.html": "/gh-pages/index.html",
+    "static/css/main.abe69bca.chunk.css.map": "/gh-pages/static/css/main.abe69bca.chunk.css.map",
+    "static/js/2.74935d2e.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.74935d2e.chunk.js.LICENSE.txt",
+    "static/media/stackline_logo.5935081b.svg": "/gh-pages/static/media/stackline_logo.5935081b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e9ebd8e.js",
+    "static/js/2.74935d2e.chunk.js",
+    "static/css/main.abe69bca.chunk.css",
+    "static/js/main.0640205b.chunk.js"
+  ]
+}
